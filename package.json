@@ -1,7 +1,7 @@
 {
   "name": "express-server",
   "version": "1.0.0",
-  "description": "Task01 Node.js Express server",
+  "description": "Task03 Simple CSS Styling",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
